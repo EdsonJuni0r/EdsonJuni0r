@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Edson+Junior+Engenheiro+de+Software+%F0%9F%91%8B;Dev+%26+QA+Enthusiast+%F0%9F%A7%AA;Suporte+TI+na+%C3%81rea+da+Sa%C3%BAde+%F0%9F%8F%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Edson+Junior+%F0%9F%91%8B;Engenheiro+de+Software;Dev+%26+QA+Enthusiast;Suporte+de+T.I+na+%C3%A1rea+da+Sa%C3%BAde" alt="Typing SVG" />
 </div>
 
 ---
@@ -29,7 +29,7 @@ Também sou entusiasta de **desenvolvimento de software** e **QA**, sempre busca
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=json&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -52,6 +52,7 @@ Também sou entusiasta de **desenvolvimento de software** e **QA**, sempre busca
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Testes_E2E-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
   </td>
   </tr>
@@ -76,7 +77,7 @@ Também sou entusiasta de **desenvolvimento de software** e **QA**, sempre busca
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdsonJuni0r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJuni0rO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJuni0r&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EdsonJuni0r&theme=tokyonight&hide_border=true)
 
