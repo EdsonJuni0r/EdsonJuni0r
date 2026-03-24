@@ -60,27 +60,12 @@ Também sou entusiasta de **desenvolvimento de software** e **QA**, sempre busca
 
 ---
 
-## 🏥 Sistemas de Saúde com experiência
-
-| Sistema | Descrição |
-|---|---|
-| **e-SUS APS** | Sistema de informação da Atenção Primária à Saúde |
-| **PEC** | Prontuário Eletrônico do Cidadão |
-| **SIH** | Sistema de Informações Hospitalares |
-| **Outros** | Sistemas hospitalares e de gestão de saúde |
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdsonJuni0r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJuni0r&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=EdsonJuni0r&theme=tokyonight&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdsonJuni0r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJuni0r&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
