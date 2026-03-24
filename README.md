@@ -5,7 +5,7 @@
 
 ---
 
-## 🏥 Sobre mim
+##  Sobre mim
 
 Sou **Engenheiro de Software** atuando como **Analista de Suporte de TI na área da Saúde**, com foco em manutenção de infraestrutura, servidores e sistemas de informação em saúde pública e hospitalar.
 
@@ -64,8 +64,7 @@ Também sou entusiasta de **desenvolvimento de software** e **QA**, sempre busca
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdsonJuni0r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJuni0r&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJuni0r&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -80,11 +79,6 @@ Também sou entusiasta de **desenvolvimento de software** e **QA**, sempre busca
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EdsonJuni0r&color=1d9e75&style=flat-square&label=Visitas+ao+perfil" />
-</div>
 
 <!-- Snake animation (opcional — requer GitHub Actions configurado) -->
 <!--
