@@ -70,14 +70,10 @@ Também sou entusiasta em **Desenvolvimento de Software** e **QA**, sempre busca
 ---
 
 ## 📫 Contato
-<div align="left">
-  <a href="mailto:vianaedsonjunior@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vianaedsonjunior@gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"/>
-  </a>
-  <a href="https://linkedin.com/in/edson-junior-eng">
-    <img src="https://img.shields.io/badge/LinkedIn-Edson%20Junior-gray?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-</div>
+<p align="left">
+<a href="mailto:vianaedsonjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-vianaedsonjunior@gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"/></a>
+<a href="https://linkedin.com/in/edson-junior-eng"><img src="https://img.shields.io/badge/LinkedIn-Edson%20Junior-gray?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
+</p>
 
 ---
 
