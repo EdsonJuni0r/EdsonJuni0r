@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <h2>Olá, eu sou Edson Junior</h2>
+  <h1>Olá, eu sou Edson Junior</h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=1D9E75&center=true&vCenter=true&width=560&height=22&lines=Engenheiro+de+Software;Dev+%26+QA+Enthusiast;Suporte+de+T.I+na+%C3%A1rea+da+Sa%C3%BAde" alt="Typing SVG"/>
 </div>
 
