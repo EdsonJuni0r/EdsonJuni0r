@@ -9,7 +9,7 @@
 
 Sou **Engenheiro de Software** atuando como **Analista de Suporte de TI na área da Saúde**, com foco em manutenção de infraestrutura, servidores e sistemas de informação em saúde pública e hospitalar.
 
-Também sou entusiasta de **desenvolvimento de software** e **QA**, sempre buscando melhorar processos por meio de boas práticas de engenharia.
+Também sou entusiasta em **Desenvolvimento de Software** e **QA**, sempre buscando melhorar processos por meio de boas práticas de Engenharia.
 
 - 🖥️ Manutenção de **hardwares**, **servidores de internet** e **servidores de impressão**
 - 🩺 Suporte aos sistemas **e-SUS APS**, **PEC (Prontuário Eletrônico do Cidadão)** e **SIH**
@@ -70,15 +70,16 @@ Também sou entusiasta de **desenvolvimento de software** e **QA**, sempre busca
 ---
 
 ## 📫 Contato
-
 <div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-junior-eng)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vianaedsonjunior@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdsonJuni0r)
-
+  <a href="mailto:vianaedsonjunior@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vianaedsonjunior@gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"/>
+  </a>
+  <a href="https://linkedin.com/in/edson-junior-eng">
+    <img src="https://img.shields.io/badge/LinkedIn-Edson%20Junior-gray?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
 </div>
 
+---
 
 <!-- Snake animation (opcional — requer GitHub Actions configurado) -->
 <!--
