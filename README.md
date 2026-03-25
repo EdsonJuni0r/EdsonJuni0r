@@ -1,6 +1,8 @@
-<!-- Banner animado -->
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Edson+Junior+%F0%9F%91%8B;Engenheiro+de+Software;Dev+%26+QA+Enthusiast;Suporte+de+T.I+na+%C3%A1rea+da+Sa%C3%BAde" alt="Typing SVG" />
+  <h2>Olá, eu sou Edson Junior</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=1D9E75&center=true&vCenter=true&width=560&height=22&lines=Engenheiro+de+Software;Dev+%26+QA+Enthusiast;Suporte+de+T.I+na+%C3%A1rea+da+Sa%C3%BAde" alt="Typing SVG"/>
 </div>
 
 ---
