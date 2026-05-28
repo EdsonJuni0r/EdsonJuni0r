@@ -62,11 +62,15 @@ Também sou entusiasta em **Desenvolvimento de Software** e **QA**, sempre busca
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJuni0r&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EdsonJuni0r&layout=compact&theme=tokyonight&hide_border=true"
+  />
+
 </div>
 
 ---
