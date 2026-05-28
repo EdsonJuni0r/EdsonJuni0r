@@ -44,6 +44,7 @@ Também sou entusiasta em **Desenvolvimento de Software** e **QA**, sempre busca
 ### 🖥️ Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-005C84?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🚀 DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
